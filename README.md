@@ -27,4 +27,3 @@ Representing wildlife habitat as a graph, nodes depict key locations (e.g., wate
 
 ## License
 This project is licensed under the [MIT License]
----
