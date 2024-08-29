@@ -1,5 +1,5 @@
 # WildlifeAI
-WildlifeAI is an Autonomous Wildlife Monitoring System designed for safari parks and zoos. It leverages AI techniques including object detection, sound analysis, and graph-based movement tracking to detect, classify, and analyze wildlife activities in real-time.
+WildlifeAI was an exploratory project where I addressed challenges in wildlife monitoring by experimenting with existing AI models, including object detection and sound analysis, to assess their effectiveness in real-time wildlife detection and classification.
 
 ## Key Features
 - **Object Detection:** Utilizes Haar-like features and YOLOv8 for accurate and real-time animal detection in images and video.
